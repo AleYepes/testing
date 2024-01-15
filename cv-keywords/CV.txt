@@ -1,0 +1,55 @@
+Alejandro Yepes Shutova
+Senior UX/UI - Mobile Apps  |  Carrots Lab
+Experience
+UX Engineer
+Upwork (freelance)  |  Berlin, Germany & Madrid, Spain  |  Feb 2021 - Present
+Designed and developed user-centered interfaces for web and mobile applications. Specialized in user and market research, alongside data preprocessing and inferential analysis. Worked with Santander, ACS Group, and various small businesses.
+Presented opportunities to create user value by conducting secondary research and expanding it with primary research.
+Identified the right business solutions by processing research data, and prioritizing alternatives with QFD planning.
+Ensured consistent and scalable user experiences across different platforms by producing brand style guidelines/visual design systems.
+Involved a variety of stakeholders in the design process, while creating wireframes and low-fidelity mockups, to share and communicate design ideas throughout the company.
+Conducted in-house usability tests with Figma prototypes to iterate on and refine user interactions.
+Practiced agile development methodologies to quickly build and test design solutions.
+Deployed designs on the client’s framework or platform of choice, usually WordPress or Webflow. Assisted development teams by implementing components on React.
+Integrated content management systems for content creators, and web analytic systems for data scientists.
+UX Design Intern
+Nextpractice GmbH  |  Bremen, Germany  |  Dec 2018 - Jan 2019
+Supported designers by researching customer needs and industry trends for a project sharing platform.
+Was introduced to Design Thinking sprints, where my team was responsible for conducting basic user research and developing user flows and personas.
+Led small usability tests on the existing platform to identify pain points, gather user feedback, and to better understand customer requirements.
+Streamlined the platform’s information architecture and user journey by identifying and prioritizing the most engaging features on the platform.
+Improved the software's usability metrics (SUS, CSAT, CES, NPS).
+Industrial Engineering Intern
+Jacobs University Bremen  |  Bremen, Germany  |  Sep 2018 - Dec 2018
+Contributed to the design and implementation of strategic manufacturing processes to minimize lead time and input costs in a simulated production facility.
+Collaborated with a cross-functional team to model and troubleshoot key operational bottlenecks and to optimize product development processes.
+Performed technical analyzes (time-motion studies, value stream mapping, human factors analysis) to identify complex interactions and opportunities for process optimization.
+Skills & Tools
+Research
+Demographic research, Competitor audits, Discovery sessions, Stakeholder interviews, Field studies, Survey design.
+Data Analysis
+Data preprocessing, Descriptive analyzes, Data visualization, Matplotlib, Diagnostic analyzes, Exploratory analyzes, Inferential analyzes, Google Analytics, Pandas, SciPy, Scikit-learn, Python.
+UX Design
+Journey mapping, User persona modeling, Site mapping, Card sorting, QFD, Axiomatic design.
+UI Design
+Brand identity design (Color, Typography, Iconography, Layout, AI Photography, Wireframing, Prototyping), Figma, Adobe Creative Cloud.
+Usability testing
+Participant screening, A/B Testing, Contextual interviews, Think-aloud protocol, WCAG benchmarking.
+Development
+Client-side development with React, Analytics pipeline configuration, Content Management System (CMS) configuration, Webflow, WordPress, HTML, CSS, Javascript, Typescript.
+Languages
+English (C2 - Native), Spanish (C2 - Native), German (A2 - Beginner).
+
+Education
+Bachelor’s Industrial Engineering
+Jacobs University Bremen  |  Bremen, Germany  |  2021  |  Diploma
+High School Degree
+The American International School of Muscat  |  Muscat, Oman  |  2016  |  Yearbook
+
+
+
+
+
+
+
+email: alejandro.shutov@gmail.com  |  linkedIn: linkedin.com/in/ayepesshutova  |  portfolio: alejandroyshutova.webflow.io  |  (+34) 635 863 285

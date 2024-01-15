@@ -1,0 +1,300 @@
+About the job
+Are you an experienced UX Developer looking to bring your skills to an innovative environment?
+
+
+Our respected client, with a strong history of successfully implementing digital solutions in diverse business sectors, is in search of a talented individual to join their team in Zaragoza on a permanent basis with a hybrid working model.
+
+
+Responsibilities:
+
+Design and implement captivating user interfaces with a focus on usability, accessibility and high performance.
+Collaborate closely with product managers and fellow developers to understand and execute project requirements.
+Develop frontend components using Angular and integrate them seamlessly into existing systems built on the .NET framework.
+Ensure a consistent and exceptional user experience across diverse teams and products.
+Proactively identify and address user experience issues.
+
+
+Requirements:
+
+3+ years of user interface development experience (preferably with Angular).
+Bachelor's degree in Computer Science, User Experience (UX) Design or related area.
+Proficiency in the latest versions of HTML, CSS and JavaScript.
+Good understanding of UX principles and design methods.
+Knowledge of responsive design implementation.
+Fluency in Spanish and English B1/B2.
+
+
+Conditions:
+
+Contract: Permanent
+Working model: Hybrid, 1-2 times/week in 
+
+About the profile
+
+Our company is rapidly growing and now we are looking for a UI/UX Designer to join our team of professionals. As a UI/UX Designer you will be expected to support a variety of development projects, helping to transform ideas and requirements into visual products, using tools like Figma or Photoshop but also generative AI tools like Midjourney.
+
+
+Responsibilities:
+
+Designing UX.
+Designing UI.
+Interact with customers and technical teams.
+Measure and validate the work delivered by externals.
+Create wireframes, flows, comps, mockups, prototypes, and produce assets to communicate interaction and design work and validate ideas effectively.
+Creating user / customer journeys.
+Work with Product Managers, Business Analysts and other stakeholders to define project requirements and roadmaps, facilitating Design Sprints and workshop activities for shaping new initiatives.
+Manage and execute design work from project goals to execution, validation and handoff to engineers.
+Understand and balance business, user and technical requirements.
+Work with the development team(s) to ensure technical needs are satisfied while maintaining a strong focus on the user experience.
+Deliver experiences that are optimized for a wide range of devices and interfaces, including smartphone, tablets and desktop.
+
+
+Requirements - Must have
+
+Relevant degree / studies in field of Design or HCI.
+Knowledge about UX and how to design products / services with good user experience.
+Ability to describe a UX use case hypothesis.
+Ability to advocate design choice with evidence-based data.
+Proven experience in facilitating and running collaborative methodologies and co-creation workshops with a wide range of stakeholders.
+Proven experience in leading UX projects across the whole design process.
+Ability to communicate fluently with technical teams, both internal (company) and external (customers and providers).
+Proactivity, problem-solving, and conflict resolution ability.
+Open minded, feedback culture.
+Good skills in Figma.
+Design skills, including knowledge in Photoshop or similar.
+
+
+Requirements - Nice to have
+
+Knowledge of modern AI-aided tools like Photoshop beta, Midjourney, Stable Diffusion, etc.
+Knowledge in other UX tools: Sketch, Balsamiq, InVision, etc.
+Experience working with collaborative tools such Miro or Mural.
+Experience and background working in/for life science companies.
+Experience working in agile methodologies / frameworks such us Scrum, SAFe, etc.
+Technical background and/or technical studies.
+
+UI/UX Engineer (OutSystems) _ Madrid, Spain
+
+Do you see front-end development as more than just solving technical issues and instead view it as creating a unique user experience? Are you enthusiastic about collaboration with Product, Design, Business, and Marketing teams and enjoy synthesizing diverse demands into innovative solutions? If so, why not consider joining Western Unions’ new Digital Banking hub in Madrid as a member of our UX/UI Front-End engineering team?
+
+Western Union powers your pursuit.
+
+In this critical role, you will be responsible for developing innovative, efficient, and actionable technology solutions to drive front-end channels (including the digital bank mobile app and digital wallet) globally. You will collaborate closely with other engineers and Product Owners to translate customer needs and high-level requirements into suitable solutions. Your primary goal will be to ensure that products are delivered on time, under budget, and with successful deployment.
+
+Role Responsibilities
+
+Lead work on innovative, actionable, and efficient technology solutions to drive front-end channels (digital banking mobile app and website) in the assigned region.
+Collaborate with Product Owners to filter customer needs into use-cases and high-level requirements and identify suitable solutions.
+Strong emphasis on customer journey, product quality, performance tuning, troubleshooting, and continuous development.
+Ensure that products are delivered according to plan, under budget and deployed successfully.
+Help integrate new technologies into the Digital Ecosystem.
+Provide direction and guidance on solution designs and architecture to ensure appropriate fit within enterprise standards.
+Provide day-to-day guidance and mentoring to the development team.
+Ensure that the development team follows standard SDLC.
+Collaborate with stakeholders on planning and scheduling of product releases.
+Work with manager and peers to proactively suggest areas of improvements and enhancements.
+Work with industry partners in integrating our systems with other applications or systems.
+You will propose the most optimum technical solutions in order to drive industry “best in class” KPI results.
+Troubleshoot integration issues and coordinate issue resolution with operations, functional, and technical teams.
+
+Role Requirements
+
+A minimum of 3+ years of professional experience in front-end engineering, although candidates with other relevant experience will be considered.
+A degree in Computer Science or related fields.
+Excellent understanding of computer science fundamentals, data structures, algorithms.
+Experience with UX/UI concepts, architecture design and techniques and the ability to communicate and evangelize those concepts to internal stakeholders and external partners.
+Excellent understanding of computer science fundamentals, data structures, algorithms, OOPs, and OOA/D.
+Prior experience extending low-code platforms with custom coded componentry preferred.
+3+ years of experience building web and mobile applications (using Angular, .NET, or other similar technologies).
+Experience in web applications performance troubleshooting
+Experience with OutSystems Integration, Component/Add-on s Development or similar.
+Proven track record of writing high quality, efficient code using OutSystems, Javascript, .NET, and/or similar languages.
+Demonstrated experience in modern programming languages (for example, Java/C++, NodeJS, C#/.NET, Angular, React) and design patterns.
+Proven ability to understand the business and ability to contribute to technology direction that drives measurable business improvements.
+Excellent decision-making, communication, and collaboration skills.
+Demonstrated capabilities in assessing business needs while providing creative and effective solutions in conformance to emerging technology standards.
+
+What are we looking for?
+
+We are looking for a creative UX/UI Designer with a positive attitude, passionate about design and innovation, and willing to work in a team. We value leadership skills in the end-to-end product design process.
+
+
+Requirements:
+
+
+
+Degree in Industrial Design and Product Development or similar.
+Minimum 2 years experience in design, research and prototyping.
+Ability to lead the design of a complete product.
+Experience working with development teams and knowledge of technology.
+Proficiency with tools such as Flutterflow, Figma, etc.
+
+
+Responsibilities:
+
+
+
+You will participate in the UI/UX and graphic design of our products.
+You will perform user research and data analysis.
+You will define functional requirements, creating user flows, wireframes, prototypes and mockups.
+You will collaborate with development and business teams to ensure high quality implementations.
+You will perform validation and user testing to improve usability.
+
+Your Tasks
+
+Develop user interface designs, user flows, and customer journeys through various stages, including ideation, sketching, mockups, low- and high-fidelity prototyping, and interaction concepts
+Shaping the product strategy together with our product owners and drive its implementation in collaboration with our product teams in a Scrum and data-driven way of working
+Solid experience in define and measure KPIs to assess the effectiveness of design solutions
+Conduct user testing and gather insights to refine and improve the design iterations
+Being close to business and support from design and ideation phases till going live by integrating user feedback and business requirements into ongoing product
+
+Your Profile
+
+Ideally you have a bachelor’s degree, master’s degree in design (or similar)
+Several years of experience in UX/UI design + solid experience in mobile app development, with a focus on product design in a fast-paced environment. 
+Impressive portfolio demonstrating conceptual interaction design work and a strong understanding of typography, simplicity, and visual design. 
+Proficiency in using common design and prototyping tools such as Figma, Adobe CC, Framer, Flare, Principle, etc. 
+You have very good English skills with an ability to articulate in both written and spoken language
+Advantage would be a basic understanding of web technologies - what works, what doesn't!
+
+Why you’ll love our team
+
+We are a team of 30 talented Product Designers, Content Designers and Researchers. We like to think of ourselves as high-achievers, goal-oriented, and eager to learn and grow. We foster efficiency through autonomy and creativity through collaboration.
+Working in the Product Design team will ensure high-quality design, strategic impact on the product and next-level GIFs 😎
+In the Product Design team, you will find a strong culture of ownership, impact-over-effort and lending support to each other, there are no egos and transparency is highly valued.
+We are a heterogeneous team with multiple nationalities and backgrounds, pushing for getting better, having fun and always asking why (of course).
+
+Wanna know more? You can always find us at travelperk.design
+
+The Role
+
+Lead strategic research projects
+Train designers to be efficient researchers validating their deliverables
+Collate and disseminate various threads of insights into easy-to-digest and actionable recommendations
+Facilitate and run workshop sessions to address key issues within the product
+Work with account managers to contact and schedule research sessions with relevant profiles based on the needs of the product team
+Set up scalable feedback loops where ideas can be quickly tested and validated, allowing rapid iterations before going to market
+Get “out of the building” and find creative ways of getting our products and prototypes into the hands of business travelers
+
+What will you do?
+
+Hold a key role in scaling and shaping the UX Research function
+Champion the use of research to inform and drive product direction
+Grow the value of research through thought leadership and relationship building
+Work closely with Tribe Leads, Senior PMs, and Product Designers
+Translating user insights into strategic recommendations to the product teams to drive user engagement
+Develop and innovate on our mixed-methods user research practice
+Serve as a partner for a growing design practice centre, advising and mentoring your colleagues and peers on methodologies and best practices in implementing their own evaluative research
+Define and facilitate design thinking workshops to foster cross-functional collaboration, action your research, and inform experiences that reflect a clearly defined problem
+
+What will you need to succeed?
+
+3 years+ working as a user experience researcher on digital products
+Strong experience working as a User Experience Researcher on digital products
+Expertise in conducting end-to-end user research studies; planning, recruitment, execution, analysis, and delivery
+Excellent level of spoken and written English
+An ability to develop strong partnerships with PMs and Designers – to positively challenge assumptions, unpick ambiguous contexts and define problems to solve
+Expertise in a wide variety of research methodologies
+Can communicate research findings in creative and impactful ways to create understandable, compelling, and actionable insights
+Ability to analyse and interpret qualitative data and quantitative data
+Schedule and run customer interviews, usability testing and other qualitative methods
+Broad knowledge of various research methods
+Critically analyse the product and prototypes, offering valuable insights and direction based learned knowledge
+Understand behavioral patterns across different devices and contexts and use these findings to improve our products
+
+WHAT WOULD YOUR DAY-TO-DAY AT MANGO BE LIKE?
+
+You will be part of the Customer Experience team whose mission is to enhance a memorable customer experience by fostering a Customer Centric vision, while detecting business opportunities that fit with our brand values and positioning.
+
+WHAT DOES A "UX RESEARCHER (TEMPORARY)" DO AT MANGO?
+
+A UX Researcher at Mango has the purpose of understanding Mango's customers in depth and transmitting their needs to the different teams of the organization. You will be the visible face of the Customer Experience team in the Online team, developing the Research discipline in this area. With your natural empathy, you will work collaboratively with teams from different disciplines to uncover their knowledge needs. You will conduct research activities that will bring people from different teams closer to customers.
+
+In your day-to-day...
+
+Understand and communicate the needs of users, customers and other stakeholders of Mango's services, in particular online, taking into account omni-channel.
+Identify opportunities for improvement in Mango's user and customer experience and link them to business improvement opportunities.
+Design, plan and organize research activities - interviews, contextual observation, among others - and workshops with stakeholders and users.
+Ensure the technical quality of the research sessions, constantly evaluating their performance. 
+
+What are we looking for?
+
+
+
+We are looking for talented, passionate, critical senior designers who want to do their best. As a ux designer, you will research, define and design. We want doers who think and empathize at all levels, internal, client and user. Open-minded? We'll ask you to be able to challenge everything you already know or are given, whether it's from a client, your direct manager or industry standards, you're a senior.
+
+
+Plus. Consistency, coherence, common sense and workability are basic skills for the position. Empathy and teamwork are a must. From day one, you will be part of the experience design family and work alongside top specialists in all areas: ux researchers, ui designers, ux copies, visual designers, ux strategists, digital creatives, data, the development team and project managers.
+
+
+
+
+Basic, very basic.
+
+ 
+
+Ability to lead projects and teams.
+Strategic and contextual vision of the projects.
+Solid knowledge of UX/UI and trends.
+Understanding of responsive, mobile first and native iOS/Android design.
+Have created Design Systems and understand modularity concepts.
+Excellence in Adobe Creative Suite, Sketch (ideal) and/or Figma.
+Commitment to ensure end-to-end project quality.
+Team spirit and positive attitude.
+Ability to work on multiple projects simultaneously.
+High communication skills to present and defend ideas.
+Good English, or you will miss out on a lot of work.
+
+Product Design leads are a key ingredient in our Product Delivery Teams (PODS). You will actively play a critical role in all your specific POD activities, plans and roadmaps. You will work as a team and focus on delivering what is best for the user and business within your ecommerce product pod.
+
+You will regularly attend & participate in POD meetings to consider, prioritise and action against each new idea and backlog items that have been submitted. By working together, you will formulate a plan of action and roadmap of deliverables that meet the product vision and business objectives.
+
+You will also be the interface for your POD into the broader UX organization to ensure the right persons are engaged in the active assignment.
+
+Key Job Responsibilities
+Represent and lead the UX team in the US Shop POD team structure.
+Actively contribute to all POD meetings and their activities
+Understand, contribute to and deliver the Product & POD Vision / Roadmap
+Execute upon the prioritised workload of the POD and keep store teams UpToDate on status and next steps.
+Integrate, understand & support Store teams goals, and assist them where UX plays a key role.
+Comprehend requests by reaching out to the owner and then writing up UX requirements and validated user stories ready for next steps.
+Core Expertise
+Understand the platform capabilities and work within the boundaries when designing the UX solution.
+Actively promote and Integrate research, best practices, customer feedback/insights into thought process.
+Design and deliver a complete validated UX artifact that meets requirements of the tasks and business objectives.
+Work closely with UI design team to ensure up to date design system guidance are integrated into the final deliverables and are ready for handover.
+Promote & Organise demos / walkthroughs of the UX solution to gain stakeholder signoff and discussion.
+Assist development teams in smooth understanding and delivery / experimentation of UX solutions.
+Play an active part in the QA & release sign off process.
+Identifying and proposing journey/tasks enhancements that meet POD objectives, which are aligned with store teams.
+Ensuring that Core web vitals are consistently improved in all steps of UX design & implementation.
+Communicating & Reporting
+Be able to any point give status updates on individual or collective requests.
+Ensure all activity is accurately logged & documented within the systems of record which enables UX management to get a full picture of workload.
+Able to identify roadblocks & issues and try to resolve with diligence.
+Drive & Support UX deliverables & releases from conceptions to delivery.
+Qualifications & Skills
+More than 10 years’ experience in UX & Product Design
+Must have eCommerce experience.
+Working at Corporate scale is highly desirable.
+Strong understanding of modern UX technologies, theories, architecture, and development techniques
+Worked with or Established Design System rules.
+Expert proficiency in necessary UX tools, Figma advantageous, 
+Data & Analytics Packages: Google Analytics, Adobe Analytics & Content Square
+HTML, CSS, Jscript knowledge
+Exceptional communication, presentation and storytelling skills
+
+MISSION:
+
+Mediapro Exhibitions is the division of the Mediapro group specialized in the creation and development of exhibition and museum projects with a great trajectory and experience in the creation and management of exhibitions, unique spaces, museums, thematic pavilions, cultural and leisure spaces, interactive installations and state-of-the-art audiovisual technologies (3D, AI, virtual environments, augmented reality, immersive sound, interfaces).
+We get involved in all phases of the project, from design to production and construction. That's why we are looking for UX UI Designers who are used to working on different types of projects.
+
+
+FUNCTIONS:
+
+Creating user-friendly interactives that connect with the user and ensure a positive experience in museums and exhibition spaces.
+Designing digital experiences outside the standards, looking for creative solutions through technology.
+Ability to work on each project in all its phases, from research, through information architecture, wireframing, design, prototyping and testing.
+Actively participate in brainstorming sessions with both the design team and other departments (content, technology, architecture) that are also part of the project.
+Ability to lead and manage the design of more than one project at a time, with the corresponding teams and under the supervision and support of the lead designer.
+Sharing the project with other team members
