@@ -1,0 +1,52 @@
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+    margin: 0px;
+}
+
+div {
+    display: flex;
+}
+
+.section {
+    justify-content: center;
+    padding: 100px 0 100px 0;
+}
+
+.container {
+    width: 90vw;
+    max-width: 1024px;
+    gap: 24px;
+    justify-content: space-between;
+}
+
+.card {
+    flex: 1;
+    background-color: rgb(185, 185, 231);
+    padding: 12px;
+    justify-content: center;
+}
+
+.hero {
+    background-color: #1f2937;
+    color: #f9faf8;
+}
+
+nav {
+    height: 50px;
+}
+
+h1 {
+    font-size: 48px;
+}
+
+.logo {
+    font-size: 24px;
+}
