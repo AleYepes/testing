@@ -41,12 +41,39 @@ div {
 
 nav {
     height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #1f2937;
+    position: fixed;
+    top: 0px;
+    left: auto;
+    right: auto;
+
 }
 
 h1 {
     font-size: 48px;
+    padding: 0px;
+}
+
+a {
+    color: #e5e7eb;
+    text-decoration: none;
 }
 
 .logo {
     font-size: 24px;
+    color: #f9faf8;
+}
+
+.vertical {
+    flex-direction: column;
+}
+
+button {
+    border-radius: 10px;
+    padding: 1em 2em
+
 }
