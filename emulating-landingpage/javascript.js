@@ -1,5 +1,3 @@
-let a;
-
-a = prompt("What?", 'br')
-
-alert(a)
+for (let i = 0; i < 10; i++) {
+  
+}
