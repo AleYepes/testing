@@ -1,0 +1,112 @@
+:root {
+    --bg000: black;
+    --bg100: #1d1d1f;
+    --bg200: #464649;
+    --bg300: #88888c;
+    --bg400: #b2b2b5;
+    --bg500: #d9d9d9;
+    --bg600: #f5f5f7;
+    --bgfff: white;
+    --link-dark: #06c;
+    --link-light: #2894fa;
+    --error: #cc3129;
+    --warning: #f6c600;
+}
+
+html {
+    box-sizing:border-box
+}
+
+*, *:before, *:after {
+    box-sizing:inherit
+}
+
+body {
+    background-color: var(--bgfff);
+    color: var(--bg100);
+    font-family: 'Inter', Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 1.2em;
+}
+
+section {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    height: auto;
+    padding: 100px 0%;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    gap: 5vw;
+}
+
+.center {
+    justify-content: center;
+    align-items: center;
+}
+
+.vertical {
+    flex-direction: column;
+    width: 10%;
+    align-items: center;
+    justify-content: end;
+    height: 200px;
+    gap: 0px;
+}
+
+.container {
+    width: 90vw;
+    max-width: 1024px;
+    flex-direction: column;
+    display: flex;
+    justify-content: center;    
+    gap: 5vw;
+}
+
+.bar {
+    width: 40px;
+}
+
+.lose {
+    background-color: red;
+    height: 0%
+}
+
+.tie {
+    background-color: yellow;
+    height: 0%
+}
+
+.win {
+    background-color: yellowgreen;
+    height: 0%
+}
+
+a {
+    color: var(--link-dark);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+button {
+    background-color: var(--bg500);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    border-radius: 99px;
+    padding: 1em 2em;
+    font-weight: 600;
+    border: 0px;
+}
+
+button:hover {
+    background-color: var(--bg600);
+}
