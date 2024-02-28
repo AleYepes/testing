@@ -1,59 +1,66 @@
-function Play(player) {
-    let computer = Math.floor(Math.random() * 3);
-    heading.textContent = Roll(player, computer)
+// CREATE CANVAS
+function createCanvas() {
+    let cells = document.querySelectorAll('.flex-auto');
+    cells.forEach((cell) => cell.remove());
+    let columns = document.createElement('div');
+    for (let i = 0; i < resolution; i++){
+        let cell = document.createElement('div');
+        cell.classList.add('flex-auto');
+        cell.classList.add('cell');
+        columns.appendChild(cell);
+    };
+
+    for (let i = 0; i < resolution; i++){
+        let clone = columns.cloneNode(true);
+        clone.classList.add('flex-auto');
+        container.appendChild(clone);
+    };
+    
+    activatePencil();
 }
 
-let bars = document.querySelectorAll('.bar')
-let win = document.querySelector('.win')
-let tie = document.querySelector('.tie')
-let lose = document.querySelector('.lose')
-let score = [0, 0, 0]
-
-function Reset() {
-    score = [0, 0, 0]
-    win.style.height = '0%'
-    tie.style.height = '0%'
-    lose.style.height = '0%'
-    console.log(score)
+function activatePencil() {
+    // SET MOUSE EVENT INTERACTIONS
+    let mouseDown = false;
+    document.addEventListener('mousedown', () => mouseDown = true);
+    document.addEventListener('mouseup', () => mouseDown = false);
+    
+    // ADD PENCIL INTERACTION
+    let color = 'grey'
+    let cells = document.querySelectorAll('.cell');
+    cells.forEach((cell) => {
+        cell.addEventListener('mousemove', (e) => {
+            if (mouseDown){
+                e.target.style.backgroundColor = color};
+            })
+        cell.addEventListener('mousedown', (e) => {
+                e.target.style.backgroundColor = color;
+            })
+    });
+    
 }
 
-function Roll(player, computer) {
-    if (+player == computer) {
-        score[1]++
-        tie.style.height = `${score[1]*10}%`
-        return "Tie"
-    } else if (+player + 1 == computer || (+player + 1 == 3 && computer == 0)) {
-        score[0]++
-        if (score[0] < 5) {
-            lose.style.height = `${score[0]*10}%`
-            return "Lose"
-        } else {
-            Reset()
-            return "You lost"
-        }
-    } else if (+player - 1 == computer || (+player - 1 == -1 && computer == 2)) {
-        score[2]++
-        if (score[2] < 5) {
-            win.style.height = `${score[2]*10}%`
-            return "Win"
-        } else {
-            Reset()
-            return "YOU WON"
-        }
-    } else {
-        return `player=${player} comp=${computer}`
+const container = document.querySelector('.container');
+let resolution = 16;
+const clearButton = document.querySelector("#clear");
+const resolutionButton = document.querySelector("#resolution");
+
+clearButton.addEventListener('click', () => createCanvas());
+
+function promptResolution() {
+    resolution = +prompt("Set resolution between 0 - 100");
+    if (resolution == 0 || isNaN(resolution)) {
+        alert('Not a number')
+        promptResolution();
+    } else if (resolution > 100){
+        alert("Too large")
+        promptResolution();
     }
-
 }
 
-Reset()
+resolutionButton.addEventListener('click', () => {
+    promptResolution()
+    createCanvas();
+})
 
-let buttons = document.querySelectorAll('button')
-let heading = document.querySelector('h2')
-
-
-for (button of buttons) {
-    button.addEventListener('click', (e) => {
-        Play(e.target.id)
-    })
-}
+createCanvas();
