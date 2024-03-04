@@ -1,6 +1,3 @@
-[submodule "javascript-exercises"]
-	path = javascript-exercises
-	url = git@github.com:TheOdinProject/javascript-exercises.git
 [submodule "css-exercises"]
 	path = css-exercises
 	url = git@github.com:TheOdinProject/css-exercises.git

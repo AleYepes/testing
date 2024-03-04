@@ -25,6 +25,7 @@
 data/
 data.*
 venv/
+env/
 lib/
 lib64/
 bin/
