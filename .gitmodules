@@ -1,6 +1,3 @@
 [submodule "css-exercises"]
 	path = css-exercises
 	url = git@github.com:TheOdinProject/css-exercises.git
-[submodule "autoscout24"]
-	path = autoscout24
-	url = git@github.com:mauropelucchi/autoscout24.git

@@ -23,6 +23,7 @@
 # Data files and directories #
 ####################
 data/
+prospects/
 data.*
 venv/
 env/
