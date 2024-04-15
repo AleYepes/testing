@@ -22,9 +22,10 @@
 
 # Data files and directories #
 ####################
+metadata/
 data/
 prospects/
-data.*
+*data.*
 venv/
 env/
 lib/
