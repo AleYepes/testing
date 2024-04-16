@@ -14,6 +14,6 @@
 
 7. [linkedin-scraper](./linkedin-scraper/): Testing a linkedin scraper
 
-8. [ISLP_labs](./ISLP_labs/): Python exercises for the book - [source](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
+8. [ISLP-labs](./ISLP-labs/): Python exercises for the book - [source](https://github.com/intro-stat-learning/ISLP_labs/tree/stable)
 
 9. [goodreads-ranker](./goodreads-ranker/): Extract personal goodreads book list, scrape for more info, and analyze.
