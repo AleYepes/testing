@@ -188,7 +188,6 @@ def scrape_book(book_id):
             'rating_distribution':  get_rating_distribution(soup)}
 
 def condense_books(books_directory_path):
-    # current_date = datetime.now().strftime('%m-%d-%Y')
     books = []
     # Look for all the files in the directory and if they contain "book-metadata," then load them all and condense them into a single file
     for file_name in os.listdir(books_directory_path):
@@ -212,21 +211,31 @@ def main():
     parser.add_argument('--book_ids_path', type=str)
     parser.add_argument('--output_directory_path', type=str)
     parser.add_argument('--format', type=str, action="store", default="csv",
-                        dest="format", choices=["json", "csv"],
+                        dest="format", choices=["csv"],
                         help="set file output format")
     args = parser.parse_args()
 
-    current_date = start_time.strftime('%m-%d-%Y')
-    current_bookpath = args.book_ids_path + f'/{current_date}_goodreads_library.txt'
+    current_month = start_time.strftime('%m-%Y')
+    current_bookpath = args.book_ids_path + f'/book_ids.txt'
 
-    book_ids              = [line.strip() for line in open(current_bookpath, 'r', encoding='utf-8') if line.strip()]
-    books_already_scraped =  [file_name.replace(f'_{current_date}_metadata.json', '') for file_name in os.listdir(args.output_directory_path) if file_name.endswith('.json') and not file_name.startswith(f'{current_date}_all_books')]
-    books_to_scrape       = [book_id for book_id in book_ids if book_id not in books_already_scraped]
-    condensed_books_path   = args.output_directory_path + f'/{current_date}_all_books'
+    book_ids = [line.strip() for line in open(current_bookpath, 'r', encoding='utf-8') if line.strip()]
+    books_already_scraped = [file_name.replace(f'_metadata.json', '') for file_name in os.listdir(args.output_directory_path) if file_name.endswith('.json')]
+    
+    if os.path.isfile(f'./data/{current_month}_goodreads_scraped.csv'):
+        old_df = pd.read_csv(f'./data/{current_month}_goodreads_scraped.csv')
+        old_book_ids = old_df.book_id.tolist()
+        old_book_ids = [str(id) for id in old_book_ids]
+        print(len(old_book_ids))
+        books_to_scrape = [book_id for book_id in book_ids if book_id not in old_book_ids and book_id not in books_already_scraped]
+        print(len(books_to_scrape))
+    else:
+        books_to_scrape = [book_id for book_id in book_ids if book_id not in books_already_scraped]
 
-    if os.path.isfile(f'./data/{current_date}_all_books.csv'):
+    condensed_books_path   = args.output_directory_path + f'/{current_month}_goodreads_scraped'
+
+    if books_to_scrape == []:
         delete_metadata()
-        print('\nBooks already scraped\n')
+        print('\nAll books already scraped\n')
     else:
         for i, book_id in enumerate(books_to_scrape):
             try:
@@ -238,7 +247,7 @@ def main():
                     continue
                 else:
                     # Add book metadata to file name to be more specific
-                    json.dump(book, open(args.output_directory_path + '/' + book_id + f'_{current_date}_metadata.json', 'w'))
+                    json.dump(book, open(args.output_directory_path + '/' + book_id + f'_metadata.json', 'w'))
 
                 print('=============================')
 
@@ -247,15 +256,16 @@ def main():
                 exit(0)
 
         books = condense_books(args.output_directory_path)
-        if args.format == 'json':
-            json.dump(books, open(f"{condensed_books_path}.json", 'w'))
-            delete_metadata()
-        elif args.format == 'csv':
-            json.dump(books, open(f"{condensed_books_path}.json", 'w'))
-            book_df = pd.read_json(f"{condensed_books_path}.json")
+        book_df = pd.DataFrame(books)
+
+        if os.path.isfile(f'./data/{current_month}_goodreads_scraped.csv'):
+            old_df = pd.read_csv(f'./data/{current_month}_goodreads_scraped.csv')
+            book_df = pd.concat([old_df, book_df])
             book_df.to_csv(f"{condensed_books_path}.csv", index=False, encoding='utf-8')
-            delete_metadata()
+        else:
+            book_df.to_csv(f"{condensed_books_path}.csv", index=False, encoding='utf-8')
         
+        delete_metadata()
         print(str(datetime.now()) + ' ' + script_name + f':\n\n🎉 Success! All book metadata scraped. 🎉\n\nMetadata files have been output to /{args.output_directory_path}\nGoodreads scraping run time = ⏰ ' + str(datetime.now() - start_time) + ' ⏰')
 
 
