@@ -1,50 +1,51 @@
 Alejandro Yepes Shutova
-Portfolio  |  Email  |  LinkedIn  |  WhatsApp  |  (+34) 635 863 285  |  Madrid, Spain
+Portfolio  |  Email  |  LinkedIn  |  WhatsApp  |  Goodreads  |  (+34) 635 863 285  |  Madrid, Spain
 Experience
-Upwork (Freelance)
-UX Engineer  |  March 2023 – Present  |  Madrid, Spain
-Designed user-centered interfaces for web applications, specializing in user research and quantitative analysis. 
-Optimized sample size and reduced research costs by 50% after screening research participants by behavioral criteria.
-Uncovered opportunities to create value by conducting secondary research on the user base, product category, and use case.
-Identified critical design parameters by gathering primary qualitative and quantitative data in field studies.
+UX Engineer
+Self-employed  |  March 2023 - Present  |  1 year 3 months  |  Madrid, Spain
+Delivered end-to-end UX services for ACS Group and Santander, specializing in user research and data-driven design.
+Identified opportunities to create value after conducting secondary research on the user base, product category, and use case.
+Optimized sample sizes and reduced variable research costs by ~50% by screening research participants by behavioral criteria.
+Defined critical design parameters after gathering primary qualitative and quantitative data in field studies.
 Validated design insights using inferential analyses with Python (Pandas, NumPy, SciPy, Scikit-learn, and Matplotlib).
-Implemented the best performing design into the client’s preferred framework, either React, Webflow, or WordPress.
-Designed online survey pipelines with a 66% mean response rate to measure industry-standard metrics (SUS, CSAT, CES, NPS).
+Implemented the best performing designs into client’s preferred framework, either React, Webflow, or WordPress.
+Designed digital survey pipelines with a 27% mean response rate to measure industry-standard metrics (SUS, CSAT, CES, NPS).
 Adopted agile principles to improve internal communication and quickly iterate through products.
-UX/UI Designer  |  February 2021 – March 2023  |  Berlin, Germany
-Delivered end-to-end digital services for various small businesses. 
-Designed wireframes that prioritize core user features by journey mapping, card sorting, and QFD planning.
-Visually expressed the companies’ ethos and the users’ aspirations via color, layout, typography, and AI-generated photography,
+UX/UI Designer
+Upwork  |  February 2021 - March 2023  |  2 Years 2 Months  |  Berlin, Germany
+Drafted wireframes that prioritize core product features by journey mapping, card sorting, and QFD planning.
+Visually expressed the companies’ values and the users’ aspirations via color, layout, typography, and AI-generated photography.
 Ensured consistent and scalable user experiences across platforms by producing brand style guidelines/visual design systems.
 Shared UX solutions throughout the company by inviting stakeholders in the design process when creating low-fidelity mockups.
-Created interactive prototypes to quickly A/B test user flows and interactions on Figma before development.
+Created interactive prototypes to quickly A/B test user flows and interactions on Figma before production.
+Designed and tested user-centered interfaces for a variety of small businesses in need of a web application.
 Converted wireframes into developer-friendly components and modules on Figma.
-Nextpractice GmbH
-UX Design Intern  |  December 2018 – January 2019  |  Bremen, Germany
-Assisted designers in Design Thinking sprints by researching customer needs and requirements for a project sharing platform.
+UX Design Intern
+Nextpractice GmbH  |  December 2018 - January 2019  |  2 Months  |  Bremen, Germany
+Assisted designers in Design Thinking sprints by researching customer requirements for a project sharing platform.
 Collaborated with a cross-functional team in an agile environment, participating in 100% of daily scrums.
 Led usability tests with the Think Aloud protocol to gather user feedback and better understand the platform’s user experience.
 Streamlined the software’s information architecture by identifying and prioritizing the most engaging feature on the platform.
 Skills & Tools
-User Research
-User & market research, Competitor audits, Discovery workshops, Stakeholder interviews, Online surveys.
-Data Analysis
-Google Analytics (GA4), Data preprocessing, Inferential analysis, Descriptive analysis, Data visualization.
-UX Design
-Journey mapping, User persona modeling, Task analysis, Site-mapping, Card sorting, Lean UX, Quality Function Deployment (QFD), Axiomatic design, WCAG benchmarking.
-UI Design
-Brand identity design (Color, Typography, Iconography, Layout, AI Photography, Wireframing, Prototyping), Figma, Adobe Creative Cloud.
-Usability Testing
-Candidate screening, A/B Testing, Contextual interviews, Eye tracking.
-Development
+Secondary Research:
+User & market research, Competitor audits, Discovery workshops, Stakeholder interviews.
+Primary Research:
+Candidate screening, Field studies, Usability testing, Eye tracking, A/B Testing, Online Surveys.
+Data Science:
+Google Analytics (GA4), Data preprocessing, Descriptive analysis, Inferential analysis, Data visualization.
+UX Design:
+Journey mapping, User persona modeling, Task analysis, Card sorting, Site-mapping, Lean UX, Quality Function Deployment (QFD), Axiomatic design, Wireframing, Prototyping.
+UI Design:
+Brand identity design (Color, Typography, Iconography, Layout, AI Photography), WCAG benchmarking, Figma, Adobe Creative Cloud.
+Development:
 Webflow, WordPress, HTML, CSS, ReactJS, JavaScript.
-Languages
-Native English (C2), Native Spanish (C2), Beginner German (A2).
+Languages:
+Native English (C2), Native Spanish (C1), Beginner German (A2).
 
 Education
-Bachelor of Science Industrial Engineering
+Bachelor of Science in Industrial Engineering
 Jacobs University Bremen  |  September 2017 - March 2021  |  Bremen, Germany  |  Diploma
 High School Degree
 The American International School of Muscat  |  August 2012 - May 2016  |  Muscat, Oman  |  Yearbook
 Interests
-Memoirs (Shoe dog, The forgotten highlander, Man’s search for meaning, Just mercy), Catan, Chess, CrossFit, Camping.
+Memoirs (Shoe dog, The forgotten highlander, Man’s search for meaning, Just mercy), Catan, Chess, CrossFit, Camping, Alliteration.
