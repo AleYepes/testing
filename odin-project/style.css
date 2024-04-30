@@ -33,14 +33,6 @@ div {
     display: flex;
 }
 
-.flex-auto {
-    flex: auto;
-}
-
-.cell {
-    background-color: beige;
-}
-
 .container {
     width: 90vh;
     max-width: 1024px;
@@ -50,6 +42,35 @@ div {
     border: 2px;
     border-color: gray;
 }
+
+.flex-auto {
+    flex: auto;
+}
+
+.calculator {
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(242, 242, 242);
+}
+
+.calculator_display {
+    margin: 40px;
+    padding: 20px;
+    background-color: white;
+}
+
+.calculator_keys {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px;
+    gap: 20px
+}
+
+.calculator_key {
+    background-color: white;
+    padding: 10%;
+}
+
 
 .center {
     justify-content: center;
