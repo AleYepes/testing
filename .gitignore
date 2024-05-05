@@ -32,6 +32,8 @@ lib/
 lib64/
 bin/
 include/
+assets/
+asset/
 
 # Logs and databases #
 ######################
