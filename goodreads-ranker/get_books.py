@@ -152,6 +152,13 @@ def get_cover_image_uri(soup):
     else:
         return ""
     
+def get_title(soup):
+    title = ' '.join(soup.find('h1', {'class': 'Text Text__title1'}).text.split())
+    if title:
+        return title
+    else:
+        return ""
+    
 def scrape_book(book_id):
     url = 'https://www.goodreads.com/book/show/' + book_id
     source = urlopen(url)
@@ -166,10 +173,23 @@ def scrape_book(book_id):
         print(f"============================= Skipping book {book_id} because the script tag was not found.")
         return None
 
+    try:
+        ratingCount = data['aggregateRating']['ratingCount'],
+    except KeyError:
+        ratingCount = 0
+    try:
+        reviewCount = data['aggregateRating']['reviewCount'],
+    except KeyError:
+        reviewCount = 0
+    try:
+        ratingValue = data['aggregateRating']['ratingValue'],
+    except KeyError:
+        ratingValue = 0
+    
     return {#'book_id_title':        book_id,
             'book_id':              get_id(book_id),
             #'cover_image_uri':      get_cover_image_uri(soup),
-            'book_title':           ' '.join(soup.find('h1', {'class': 'Text Text__title1'}).text.split()),
+            'book_title':           get_title(soup),
             "book_series":          get_series_name(soup),
             # "book_series_uri":      get_series_uri(soup),
             # 'top_5_other_editions': get_top_5_other_editions(soup),
@@ -182,9 +202,9 @@ def scrape_book(book_id):
             'genres':               get_genres(soup),
             # 'shelves':              get_shelves(soup),
             # 'lists':                get_all_lists(soup),
-            'num_ratings':          data['aggregateRating']['ratingCount'],
-            'num_reviews':          data['aggregateRating']['reviewCount'],
-            'average_rating':       data['aggregateRating']['ratingValue'],
+            'num_ratings':          ratingCount,
+            'num_reviews':          reviewCount,
+            'average_rating':       ratingValue,
             'rating_distribution':  get_rating_distribution(soup)}
 
 def condense_books(books_directory_path):
