@@ -7,66 +7,41 @@ html {
 }
 
 body {
-    height: 100vh;
-    box-sizing: border-box;
+    height: 100%;
     font-family: 'Inter', sans-serif;
     font-size: 18px;
     font-weight: 400;
     line-height: 1.2em;
     display: flex;
-    flex-direction: column;
     justify-content: center;
-    align-items: center;
-}
-
-section {
-    display: flex;
-    position: relative;
-    justify-content: center;
-    max-height: 1024px;
-    gap: 5vw;
 }
 
 div {
     display: flex;
-    flex: auto;
-    justify-content: center;
-}
-
-.container {
-    width: 50vw;
-    max-width: 1024px;
-    min-width: 400px;
-    flex-direction: column;
-    display: flex;
-    justify-content: center;    
 }
 
 .calculator {
-    height: 90vh;
-    display: flex;
+    padding: 4px;
+    flex: 0 1 auto;
+    background-color: gray;
     flex-direction: column;
-    justify-content: space-evenly;
-    background-color: rgb(242, 242, 242);
-    gap: 20px;
-    padding: 40px;
 }
 
-.calculator_display {
-    background-color: white;
+.keywrapper {
+    gap: 4px;
+    height: 70vh;
+    flex-wrap: wrap;
 }
 
-.calculator_key_wrap {
-    display: flex;
-    justify-content: space-evenly;
-    gap: 20px;
-}
-
-.calculator_key {
-    background-color: white;
-}
-
-.center {
+.key {
+    background-color: lightgray;
+    flex: 1 1 100px;
     justify-content: center;
     align-items: center;
+}
+
+.display {
+    background-color: white;
+    width: 60vh;
+    padding: 5vh;
 }
