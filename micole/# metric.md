@@ -32,7 +32,6 @@ ga4
   - social redirect
   - calendar redirect
 
-
 ### Pros
 quick contact
 allows the possibilty of personalized design for the school
