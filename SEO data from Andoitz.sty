@@ -1,0 +1,74 @@
+Model the changes overtime to find the ideal experiment time
+- Download dataset for the
+
+Sync the tasks from CRO to the tasks in the group-meeting notion
+
+Add data to the test de afinidad to be more information.
+- add more data to the dashboard
+
+
+LOOK up how to define which pages to index and which to excempt:
+- 
+
+
+Recapitulación para que tengamos en cuenta la carga de trabajo. Para esta subida estamos principalmente preparando lo  siguiente:
+Ranking con filtros (fase intermedia antes de cargarnos el diseño de rankings).
+Explorador abierto a todo el país y con selectores de provincia y ciudad.
+Explorador con skeleton de carga, loader infinito, sin paginación, con preguntas frecuentes y categorías.
+Popup para cambio de idioma.
+Gestión de ficha en diferentes idiomas desde el dashboard del colegio.
+Optimizar carga de fichas y explorador.
+Nuevas variables disponibles en el traductor "prepas", "escuelas infantiles", etc.. la idea es que absolutamente todos los textos puedan ser editables por país e idioma.
+Prefijo editable y preview de como quedaría en dashboard. (Este aún no sabemos si dará tiempo)
+Varias de estas funcionalidades mejorarán UX aumentando experiencia de usuario y la probabilidad de generar leads: 1, 2, 3, 6
+Otras el motivo es también SEO: 3, 4, 6, 7, 8
+Una vez subamos esto me gustaría dediquemos tiempo a corregir bugs (que tenemos bastantes) y ya poner foco en aplicar pequeños cambios que sabemos puedan ser cuellos de botella. Por ejemplo la ficha de los colegios está muy desaprovechada, larga e ilegible, con pocos enlaces internos, etc..
+Hasta entonces tenemos muy poco ancho de banda, pero lo dicho, tras la subida estaremos a fuego con estas mejoras.
+
+
+
+
+
+Buenas chicos,
+Le estoy echando un vistazo a los documentos filtrados por Google para organizar una mejor forma de optimizar posicionamiento.
+Podemos dividir en 3 fases.
+1. Hacer que Google rastree una página
+	- Debe ser indexable
+	- Debe tener suficiente tráfico
+	- Debe tener suficiente enlazado interno
+2. Hacer que Google Indexe una página rastreada:
+	2.1. Página que nunca ha sido rastreada
+		- Proporcionar suficientes atributos e información como para que se considere contenido de calidad.
+		- Suficientes usuarios frecuentan esa página.
+	2.2. Página que previamente ha sido rastreada (No cumplió requisitos y probablemente no se vuelva a reintentar en mucho tiempo)
+		- Proporcionar suficientes atributos e información como para que se considere contenido de calidad.
+		- Indexación manual?
+		- Indexación automatizada via API?
+3. Hacer que Google posicione una página
+	3.1. Aumentar CTR de los resultados de Google
+		- Snippet llamativo (mas clicable). Utiliza la parte superior de la página para generar el Snippet, siempre y exista coherencia con el resto de la página.
+		- Contenido acorde a los términos de búsqueda. Hay un campo llamado "Clickstream" que categoriza los clicks en:
+			- badClicks
+			- goodClicks
+			- lastLongestClicks
+			- unsquashedClicks
+			- unsquashedImpressions
+			- unsquashedlastLongestClicks
+			No se lo que será cada uno pero creo deberíamos caer en "goodClicks". Para eso tenemos que primero conseguir que clique y luego retenerle todo lo posible.
+	3.2. Suficiente cantidad de tráfico frecuenta la página
+	3.3. Backlinks y accesos desde el exterior (lo que ocurre fuera de Micole)
+	3.4. Ganar autoridad de dominio
+		- Hacer que se hable de Micole fuera de el (redes sociales, medios, etc..)
+	
+Dicho esto siguientes pasos que deberíamos seguir son:
+1. Crear un script para IndexNow que así nos facilite ese indexamiento inicial.
+2. Aumentar CTR: Haremos constantes experimentos A/B como hasta ahora en diferentes páginas. (Ya en proceso)
+3. Retener usuarios: Hay que cumplir expectativas y no frustrar usuarios, esto queda en manos de 
+@Alex
+. Lo ideal debería ser que nunca den atrás para volver a Google, es decir que encuentran lo que buscan o les enredamos lo suficiente como para que no sea considerado un click malo.
+4. Lo que ocurre fuera de Micole es casi tan importante como lo que ocurre dentro. Esto ya se me escapa un poco.
+	- Redes sociales?
+	- Backlinks de centros/media?
+	- Incluso colegios usando el dashboard (páginas que no son indexables) afecta el posicionamiento del resto de páginas. Aumentar uso de nuestra web?
+@Ruben
+ Para el punto 1 necesito de alguna forma tener una tabla actualizada con el tráfico de cada página. ¿Crees es posible? Esto nos servirá para detectar páginas con suficiente uso pero sin indexar.
