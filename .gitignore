@@ -34,6 +34,7 @@ bin/
 include/
 assets/
 asset/
+old/
 
 # Logs and databases #
 ######################

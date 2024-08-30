@@ -1,0 +1,258 @@
+conteo,month,name,fecha,plantipo,scope,Tipo Plan,trial,type,coleid,alias,movimiento
+1,202407,Carba,2024-07-16 19:26:18.0,anual,Privado,Gratuito,Trial,Colegio,200001846,Plan Gratuito,Altas
+1,202404,Sierra Nevada Interlomas,2024-04-09 21:57:22.0,anual,Privado,Gratuito,Trial,Colegio,200003483,Plan Gratuito,Altas
+1,202403,Bildung,2024-03-09 16:36:55.0,anual,Privado,Gratuito,Trial,Colegio,200003634,Plan Gratuito,Altas
+1,202403,Viksol,2024-03-22 15:13:43.0,anual,Privado,Gratuito,Trial,Colegio,200004494,Plan Gratuito,Altas
+1,202404,Kindergym Metepec,2024-04-09 20:51:31.0,anual,Privado,Gratuito,Cliente,Preescolar,200004541,Plan Gratuito,Altas
+1,202401,Cumbres International School México,2024-01-22 19:45:50.0,anual,Privado,Gratuito,Trial,Colegio,200004701,Plan Gratuito,Altas
+1,202405,"British American School ",2024-05-21 22:15:32.0,anual,Privado,Gratuito,Trial,Colegio,200005049,Plan Gratuito,Altas
+1,202407,Kindergym Aragón,2024-07-02 19:04:20.0,anual,Privado,Gratuito,Trial,Preescolar,200005245,Plan Gratuito,Altas
+1,202404,Villa Victoria,2024-04-08 21:04:27.0,anual,Privado,Gratuito,Trial,Colegio,200005249,Plan Gratuito,Altas
+1,202311,Escuela Valle de Bravo,2023-11-17 19:48:11.0,anual,Privado,Gratuito,Trial,Colegio,200009669,Plan Gratuito,Altas
+1,202401,El Rosario,2024-01-10 03:50:01.0,anual,Privado,Gratuito,Trial,Preescolar,200010381,Plan Gratuito,Altas
+1,202404,Alonso Manuel Escalante Y Escalante,2024-04-11 04:43:46.0,anual,Privado,Gratuito,Trial,Colegio,200018374,Plan Gratuito,Altas
+1,202406,"The American School Foundation of Guadalajara, A.C.",2024-06-12 21:19:42.0,anual,Privado,Gratuito,Trial,Colegio,200019637,Plan Gratuito,Altas
+1,202309,Salesiano Anahuac Garibaldi,2023-09-14 15:46:30.0,anual,Privado,Gratuito,Trial,Colegio,200019995,Plan Gratuito,Altas
+1,202402,Anglo Español,2024-02-22 19:59:28.0,anual,Privado,Gratuito,Trial,Colegio,200020743,Plan Gratuito,Altas
+1,202406,Anrod School,2024-06-05 21:16:35.0,anual,Privado,Gratuito,Trial,Colegio,200020840,Plan Gratuito,Altas
+1,202404,Sara Alarcon,2024-04-11 23:01:35.0,anual,Privado,Gratuito,Trial,Colegio,200024038,Plan Gratuito,Altas
+1,202408,Campogrande,2024-08-19 16:37:44.0,anual,Privado,Gratuito,Trial,Colegio,200029953,Plan Gratuito,Altas
+1,202404,Atenas,2024-04-14 06:18:24.0,anual,Privado,Gratuito,Trial,Instituto,200030467,Plan Gratuito,Altas
+1,202404,Cedros International School,2024-04-29 16:53:48.0,anual,Privado,Gratuito,Trial,Colegio,200031139,Plan Gratuito,Altas
+1,202408,Jean Piaget Poza Rica  - Secundaria y Bachillerato,2024-08-07 00:11:36.0,anual,Privado,Gratuito,Trial,Colegio,200031701,Plan Gratuito,Altas
+1,202402,Centro De Desarrollo Integral Mundo Creativo,2024-02-26 12:55:00.0,anual,Privado,Gratuito,Trial,Colegio,200032333,Plan Gratuito,Altas
+1,202402,"CENTRO | Diseño, Cine y Televisión",2024-02-15 20:56:02.0,anual,Privado,Gratuito,Trial,Instituto,200032373,Plan Gratuito,Altas
+-1,202406,Centro De Estudios De Posgrado En Ortodoncia Valle De Anahuac,2024-06-12 04:39:02.0,anual,Privado,Gratuito,Cliente,Instituto,200032838,Plan Gratuito,Bajas
+1,202401,Centro De Estudios De Posgrado En Ortodoncia Valle De Anahuac,2024-01-11 18:20:04.0,anual,Privado,Gratuito,Cliente,Instituto,200032838,Plan Gratuito,Altas
+1,202408,Centro De Estudios De Posgrado En Ortodoncia Valle De Anahuac,2024-08-12 23:26:35.0,anual,Privado,Gratuito,Cliente,Instituto,200032838,Plan Gratuito,Altas
+1,202401,Centro de Estudios Superiores Monte Fénix,2024-01-06 23:16:24.0,anual,Privado,Gratuito,Trial,Instituto,200033254,Plan Gratuito,Altas
+1,202408,Camponuevo Salamanca,2024-08-30 14:42:41.0,anual,Privado,Gratuito,Trial,Colegio,200034066,Plan Gratuito,Altas
+1,202404,Saint Patrick´s,2024-04-16 17:00:41.0,anual,Privado,Gratuito,Trial,Colegio,200034600,Plan Gratuito,Altas
+1,202407,Siembra,2024-07-02 20:33:15.0,anual,Privado,Gratuito,Trial,Preescolar,200035280,Plan Gratuito,Altas
+1,202311,Paseo,2023-11-13 21:02:40.0,anual,Privado,Gratuito,Trial,Colegio,200035585,Plan Gratuito,Altas
+1,202310,El Encino,2023-10-17 18:57:24.0,anual,Privado,Gratuito,Trial,Colegio,200035605,Plan Gratuito,Altas
+-1,202403,"Marisol Kipling A.C. ",2024-03-13 00:38:33.0,anual,Privado,Gratuito,Cliente,Preescolar,200035699,Plan Gratuito,Bajas
+1,202403,"Marisol Kipling A.C. ",2024-03-13 00:35:18.0,anual,Privado,Gratuito,Cliente,Preescolar,200035699,Plan Gratuito,Altas
+1,202401,"Centro Freinet Prometeo, S.c.",2024-01-04 20:03:34.0,anual,Privado,Gratuito,Trial,Colegio,200035881,Plan Gratuito,Altas
+1,202401,Charles Chaplin,2024-01-11 22:22:20.0,anual,Privado,Gratuito,Trial,Colegio,200036844,Plan Gratuito,Altas
+1,202401,Americano De Torreón,2024-01-20 02:04:13.0,anual,Privado,Gratuito,Trial,Colegio,200037536,Plan Gratuito,Altas
+1,202405,JSS,2024-05-15 01:56:15.0,anual,Privado,Gratuito,Trial,Colegio,200037597,Plan Gratuito,Altas
+1,202401,Atenogenes Silva,2024-01-19 16:40:17.0,anual,Privado,Gratuito,Trial,Colegio,200037876,Plan Gratuito,Altas
+-1,202403,Celta Internacional,2024-03-13 16:43:52.0,anual,Privado,Gratuito,Cliente,Colegio,200038712,Plan Gratuito,Bajas
+1,202402,Celta Internacional,2024-02-06 19:10:24.0,anual,Privado,Gratuito,Cliente,Colegio,200038712,Plan Gratuito,Altas
+1,202401,Ciudad De México plantel Contadero,2024-01-09 15:23:38.0,anual,Privado,Gratuito,Trial,Colegio,200038845,Plan Gratuito,Altas
+1,202406,Cuernavaca,2024-06-05 06:05:50.0,anual,Privado,Gratuito,Trial,Colegio,200039007,Plan Gratuito,Altas
+1,202402,Excelsior,2024-02-18 02:32:24.0,anual,Privado,Gratuito,Trial,Colegio,200040181,Plan Gratuito,Altas
+1,202404,Curie,2024-04-25 16:25:41.0,anual,Privado,Gratuito,Trial,Colegio,200040476,Plan Gratuito,Altas
+1,202408,Hispania,2024-08-27 17:35:13.0,anual,Privado,Gratuito,Trial,Colegio,200040918,Plan Gratuito,Altas
+1,202312,Integral Leonardo da Vinci,2023-12-13 00:40:56.0,anual,Privado,Gratuito,Trial,Colegio,200041295,Plan Gratuito,Altas
+1,202408,Inter Canadiense De Puebla,2024-08-15 17:47:51.0,anual,Privado,Gratuito,Trial,Colegio,200041305,Plan Gratuito,Altas
+1,202403,La Salle y Francisco G. Sada,2024-03-19 21:37:21.0,anual,Privado,Gratuito,Trial,Colegio,200042034,Plan Gratuito,Altas
+1,202402,Las Americas De Xalapa,2024-02-29 17:44:16.0,anual,Privado,Gratuito,Trial,Colegio,200042134,Plan Gratuito,Altas
+1,202402,Mi Mundo Montessori De Tepepan,2024-02-07 17:40:20.0,anual,Privado,Gratuito,Trial,Colegio,200043008,Plan Gratuito,Altas
+1,202310,Miguel Angel De Queretaro,2023-10-11 16:52:50.0,anual,Privado,Gratuito,Trial,Colegio,200043032,Plan Gratuito,Altas
+1,202403,Monclair,2024-03-21 03:58:12.0,anual,Privado,Gratuito,Trial,Colegio,200043196,Plan Gratuito,Altas
+1,202402,Monte Rosa,2024-02-13 18:23:19.0,anual,Privado,Gratuito,Trial,Colegio,200043230,Plan Gratuito,Altas
+1,202408,"Nuestro Mundo, S.c.",2024-08-17 02:58:32.0,anual,Privado,Gratuito,Trial,Colegio,200043641,Plan Gratuito,Altas
+1,202311,Pearson,2023-11-15 17:30:32.0,anual,Privado,Gratuito,Trial,Colegio,200044000,Plan Gratuito,Altas
+1,202405,"Global Academy ",2024-05-27 20:35:40.0,anual,Privado,Gratuito,Trial,Colegio,200044379,Plan Gratuito,Altas
+1,202405,Reims,2024-05-06 19:30:48.0,anual,Privado,Gratuito,Cliente,Colegio,200044443,Plan Gratuito,Altas
+1,202402,San Agustín de la Laguna,2024-02-07 15:36:12.0,anual,Privado,Gratuito,Trial,Colegio,200044668,Plan Gratuito,Altas
+1,202405,Tajin,2024-05-03 19:14:14.0,anual,Privado,Gratuito,Trial,Colegio,200045125,Plan Gratuito,Altas
+-1,202403,Instituto Thomas Jefferson Guadalajara - Palomar,2024-03-21 22:19:12.0,anual,Privado,Gratuito,Cliente,Colegio,200045261,Plan Gratuito,Bajas
+1,202402,Instituto Thomas Jefferson Guadalajara - Palomar,2024-02-29 21:38:29.0,anual,Privado,Gratuito,Cliente,Colegio,200045261,Plan Gratuito,Altas
+-1,202405,Winpenny School,2024-05-29 17:17:13.0,anual,Privado,Gratuito,Cliente,Colegio,200045747,Plan Gratuito,Bajas
+1,202405,Winpenny School,2024-05-14 16:42:17.0,anual,Privado,Gratuito,Cliente,Colegio,200045747,Plan Gratuito,Altas
+1,202312,Comunidad De Aprendizaje Iuventus,2023-12-04 20:56:51.0,anual,Privado,Gratuito,Trial,Colegio,200046027,Plan Gratuito,Altas
+1,202402,"Instituto Tepeyac Campus ",2024-02-28 15:56:11.0,anual,Privado,Gratuito,Trial,Colegio,200047162,Plan Gratuito,Altas
+1,202408,Valencia,2024-08-16 18:03:34.0,anual,Privado,Gratuito,Trial,Colegio,200047672,Plan Gratuito,Altas
+1,202406,Salesiano Enrique Benitez,2024-06-18 20:58:25.0,anual,Privado,Gratuito,Trial,Colegio,200047769,Plan Gratuito,Altas
+1,202401,Enrique Rebsamen,2024-01-18 23:03:15.0,anual,Privado,Gratuito,Trial,Colegio,200047813,Plan Gratuito,Altas
+1,202404,"CINEMA | Escuela de Cinematografía y Medios Audiovisuales ",2024-04-26 19:36:28.0,anual,Privado,Gratuito,Trial,Instituto,200048136,Plan Gratuito,Altas
+1,202403,Escuela De Especialidades Para Contadores Profesionales,2024-03-05 18:40:35.0,anual,Privado,Gratuito,Trial,Instituto,200048371,Plan Gratuito,Altas
+1,202307,Escuela De Medicina Alternativa,2023-07-04 04:59:38.0,anual,Privado,Gratuito,Trial,Instituto,200048511,Plan Gratuito,Altas
+1,202404,ESTANCIA INFANTIL CAPULLITOS,2024-04-26 21:41:21.0,anual,Privado,Gratuito,Trial,Preescolar,200049730,Plan Gratuito,Altas
+1,202408,Navojoa,2024-08-13 22:50:40.0,anual,Privado,Gratuito,Trial,Preescolar,200049818,Plan Gratuito,Altas
+1,202405,Little Stars,2024-05-20 19:24:19.0,anual,Privado,Gratuito,Trial,Preescolar,200050010,Plan Gratuito,Altas
+1,202310,"Fray Servando, A. C.",2023-10-05 15:48:18.0,anual,Privado,Gratuito,Trial,Colegio,200051362,Plan Gratuito,Altas
+1,202405,Giner School,2024-05-06 20:04:14.0,anual,Privado,Gratuito,Trial,Colegio,200051708,Plan Gratuito,Altas
+1,202310,Anglo De La Laguna,2023-10-26 19:07:55.0,anual,Privado,Gratuito,Trial,Colegio,200053581,Plan Gratuito,Altas
+1,202406,"Tiny Planet Zona Esmeralda ",2024-06-11 20:02:15.0,anual,Privado,Gratuito,Trial,Colegio,200053698,Plan Gratuito,Altas
+-1,202407,Instituto Campestre De Ciencias Y Artes De Metepec,2024-07-05 21:29:17.0,anual,Privado,Gratuito,Trial,Colegio,200054225,Plan Gratuito,Bajas
+1,202406,Instituto Campestre De Ciencias Y Artes De Metepec,2024-06-27 02:26:13.0,anual,Privado,Gratuito,Trial,Colegio,200054225,Plan Gratuito,Altas
+1,202405,La Salle Cancun,2024-05-09 15:26:22.0,anual,Privado,Gratuito,Trial,Colegio,200054242,Plan Gratuito,Altas
+1,202405,"Instituto Cumbres Veracruz ",2024-05-07 19:25:51.0,anual,Privado,Gratuito,Trial,Colegio,200054931,Plan Gratuito,Altas
+1,202408,Da Vinci,2024-08-14 19:03:50.0,anual,Privado,Gratuito,Trial,Preescolar,200054950,Plan Gratuito,Altas
+1,202408,Emprendedores Universa,2024-08-28 21:00:49.0,anual,Privado,Gratuito,Trial,Instituto,200055834,Plan Gratuito,Altas
+1,202308,Edinburgh,2023-08-31 16:42:33.0,anual,Privado,Gratuito,Trial,Colegio,200056797,Plan Gratuito,Altas
+1,202405,Freinet,2024-05-22 23:17:09.0,anual,Privado,Gratuito,Trial,Colegio,200057570,Plan Gratuito,Altas
+1,202406,GABRIELA MISTRAL,2024-06-28 05:14:16.0,anual,Privado,Gratuito,Trial,Preescolar,200057607,Plan Gratuito,Altas
+1,202402,"Eduser Reforma A.C. ""Instituto Gandhi""",2024-02-23 15:46:16.0,anual,Privado,Gratuito,Trial,Colegio,200057636,Plan Gratuito,Altas
+1,202401,San José - Español Primaria,2024-01-19 00:06:13.0,anual,Privado,Gratuito,Trial,Colegio,200058355,Plan Gratuito,Altas
+1,202401,La Salle Del Sureste,2024-01-22 20:31:00.0,anual,Privado,Gratuito,Trial,Colegio,200058548,Plan Gratuito,Altas
+1,202402,Nezaldi,2024-02-23 19:05:28.0,anual,Privado,Gratuito,Trial,Colegio,200059630,Plan Gratuito,Altas
+1,202405,Instituto Oriente Queretaro,2024-05-28 19:00:15.0,anual,Privado,Gratuito,Trial,Colegio,200059768,Plan Gratuito,Altas
+-1,202407,Panamericano,2024-07-27 06:40:35.0,anual,Privado,Gratuito,Cliente,Colegio,200059843,Plan Gratuito,Bajas
+1,202407,Panamericano,2024-07-23 20:25:17.0,anual,Privado,Gratuito,Cliente,Colegio,200059843,Plan Gratuito,Altas
+-1,202407,Instituto Pedagógico Infantil Bilingüe IPI,2024-07-16 21:24:08.0,anual,Privado,Gratuito,Cliente,Colegio,200059963,Plan Gratuito,Bajas
+1,202407,Instituto Pedagógico Infantil Bilingüe IPI,2024-07-15 17:38:03.0,anual,Privado,Gratuito,Cliente,Colegio,200059963,Plan Gratuito,Altas
+1,202407,Piaget,2024-07-19 19:00:40.0,anual,Privado,Gratuito,Trial,Colegio,200060204,Plan Gratuito,Altas
+1,202403,Instituto Profesional de Arte y Diseño,2024-03-07 19:48:47.0,anual,Privado,Gratuito,Trial,Instituto,200060320,Plan Gratuito,Altas
+1,202404,Rebsamen,2024-04-08 21:48:36.0,anual,Privado,Gratuito,Trial,Colegio,200060476,Plan Gratuito,Altas
+-1,202402,Instituto Sanford Torreón,2024-02-19 20:03:01.0,anual,Privado,Gratuito,Cliente,Colegio,200060717,Plan Gratuito,Bajas
+1,202402,Instituto Sanford Torreón,2024-02-15 01:47:31.0,anual,Privado,Gratuito,Cliente,Colegio,200060717,Plan Gratuito,Altas
+1,202308,Instituto Zacatecano de Estudios Universitarios,2023-08-03 19:43:11.0,anual,Privado,Gratuito,Trial,Instituto,200062049,Plan Gratuito,Altas
+1,202307,Interamerican School,2023-07-25 16:08:17.0,anual,Privado,Gratuito,Trial,Colegio,200062110,Plan Gratuito,Altas
+1,202405," Isaac Newton Bilingüe Primaria y Preescolar",2024-05-28 22:23:45.0,anual,Privado,Gratuito,Trial,Colegio,200062231,Plan Gratuito,Altas
+1,202407,Julio Verne,2024-07-31 19:51:43.0,anual,Privado,Gratuito,Trial,Colegio,200064513,Plan Gratuito,Altas
+1,202406,Kindersol,2024-06-17 17:53:38.0,anual,Privado,Gratuito,Trial,Preescolar,200064868,Plan Gratuito,Altas
+1,202405,La Escuela de Lancaster,2024-05-21 16:58:48.0,anual,Privado,Gratuito,Trial,Colegio,200065038,Plan Gratuito,Altas
+1,202310,"Liceo ",2023-10-17 02:22:42.0,anual,Privado,Gratuito,Trial,Colegio,200065694,Plan Gratuito,Altas
+1,202311,Instituto Herbart,2023-11-14 19:14:11.0,anual,Privado,Gratuito,Trial,Colegio,200065793,Plan Gratuito,Altas
+1,202310,Liceo Integral De Fomento Educativo (Life),2023-10-26 02:17:29.0,anual,Privado,Gratuito,Trial,Preescolar,200065833,Plan Gratuito,Altas
+1,202403,Liceo Intercultural Mexicano,2024-03-03 07:01:11.0,anual,Privado,Gratuito,Trial,Colegio,200065834,Plan Gratuito,Altas
+1,202407,Liceo Michoacano,2024-07-15 18:05:13.0,anual,Privado,Gratuito,Trial,Instituto,200065898,Plan Gratuito,Altas
+1,202404,Mundo Mágico,2024-04-24 19:15:46.0,anual,Privado,Gratuito,Trial,Preescolar,200065930,Plan Gratuito,Altas
+1,202402,Liceo Thezia,2024-02-22 20:59:31.0,anual,Privado,Gratuito,Trial,Colegio,200065961,Plan Gratuito,Altas
+1,202404,Montessori Chiaravalle,2024-04-30 19:14:26.0,anual,Privado,Gratuito,Trial,Colegio,200067690,Plan Gratuito,Altas
+1,202403,Montessori Stoppani,2024-03-12 20:16:17.0,anual,Privado,Gratuito,Trial,Colegio,200067745,Plan Gratuito,Altas
+1,202402,Montessori Paolini,2024-02-23 03:32:14.0,anual,Privado,Gratuito,Trial,Colegio,200067746,Plan Gratuito,Altas
+1,202403,"Fenix Nuevo ",2024-03-25 17:34:16.0,anual,Privado,Gratuito,Trial,Colegio,200068370,Plan Gratuito,Altas
+1,202401,Nuevo Milenio,2024-01-24 23:34:25.0,anual,Privado,Gratuito,Trial,Colegio,200068501,Plan Gratuito,Altas
+1,202407,ICFE,2024-07-27 00:53:18.0,anual,Privado,Gratuito,Trial,Instituto,200069968,Plan Gratuito,Altas
+1,202403,Roberto Montes De Oca,2024-03-18 23:49:55.0,anual,Privado,Gratuito,Trial,Colegio,200070966,Plan Gratuito,Altas
+1,202312,Centro Escolar Rochavi Altabrisa,2023-12-19 04:48:32.0,anual,Privado,Gratuito,Trial,Colegio,200070980,Plan Gratuito,Altas
+1,202402,Pedro De Gante,2024-02-16 15:35:02.0,anual,Privado,Gratuito,Trial,Colegio,200071493,Plan Gratuito,Altas
+-1,202403,San Sebastián,2024-03-04 19:12:17.0,anual,Privado,Gratuito,Cliente,Colegio,200071532,Plan Gratuito,Bajas
+1,202402,San Sebastián,2024-02-23 20:17:27.0,anual,Privado,Gratuito,Cliente,Colegio,200071532,Plan Gratuito,Altas
+1,202406,Simón Bolivar,2024-06-17 14:54:48.0,anual,Privado,Gratuito,Trial,Colegio,200071754,Plan Gratuito,Altas
+1,202405,"Instituto Quintas ",2024-05-24 19:22:56.0,anual,Privado,Gratuito,Trial,Colegio,200071793,Plan Gratuito,Altas
+1,202408,Subire León,2024-08-14 19:00:38.0,anual,Privado,Gratuito,Trial,Colegio,200072010,Plan Gratuito,Altas
+1,202408,"Summerhill los belenes ",2024-08-08 17:41:20.0,anual,Privado,Gratuito,Trial,Colegio,200072039,Plan Gratuito,Altas
+1,202401,The Oak Tree School,2024-01-19 19:50:01.0,anual,Privado,Gratuito,Trial,Colegio,200072328,Plan Gratuito,Altas
+1,202401,Liceo Cervantino,2024-01-09 18:43:03.0,anual,Privado,Gratuito,Trial,Colegio,200073925,Plan Gratuito,Altas
+-1,202403,Universidad San Sebastian,2024-03-07 19:16:38.0,anual,Privado,Gratuito,Trial,Instituto,200074184,Plan Gratuito,Bajas
+1,202402,Universidad San Sebastian,2024-02-23 20:20:59.0,anual,Privado,Gratuito,Trial,Instituto,200074184,Plan Gratuito,Altas
+1,202408,Williams De Cuernavaca,2024-08-09 21:10:49.0,anual,Privado,Gratuito,Trial,Colegio,200074950,Plan Gratuito,Altas
+1,202401,The Wingate School,2024-01-02 16:00:12.0,anual,Privado,Gratuito,Trial,Colegio,200074957,Plan Gratuito,Altas
+1,202405,Centro De Estudios Lomas,2024-05-20 20:56:37.0,anual,Privado,Gratuito,Trial,Colegio,200086098,Plan Gratuito,Altas
+1,202403,Isabel La Catolica,2024-03-19 20:43:21.0,anual,Privado,Gratuito,Trial,Colegio,200090530,Plan Gratuito,Altas
+1,202407,Jean Piaget,2024-07-24 01:39:10.0,anual,Privado,Gratuito,Trial,Colegio,200139189,Plan Gratuito,Altas
+1,202405,Juan Pablo Ii,2024-05-05 21:32:42.0,anual,Privado,Gratuito,Trial,Colegio,200149157,Plan Gratuito,Altas
+1,202309,Escuela Viva Playa del Carmen,2023-09-27 23:56:57.0,anual,Privado,Gratuito,Trial,Colegio,210034519,Plan Gratuito,Altas
+1,202403,Kinder Playgo,2024-03-12 21:30:18.0,anual,Privado,Gratuito,Trial,Preescolar,210034521,Plan Gratuito,Altas
+-1,202402,Lúminos,2024-02-20 23:43:29.0,anual,Privado,Gratuito,Cliente,Colegio,210034525,Plan Gratuito,Bajas
+1,202402,Lúminos,2024-02-20 16:49:19.0,anual,Privado,Gratuito,Cliente,Colegio,210034525,Plan Gratuito,Altas
+1,202402,"Inglés de Durango Campus ",2024-02-28 18:24:21.0,anual,Privado,Gratuito,Trial,Colegio,210034527,Plan Gratuito,Altas
+-1,202403,Westlake School,2024-03-22 17:24:11.0,anual,Privado,Gratuito,Cliente,Preescolar,210034529,Plan Gratuito,Bajas
+1,202403,Westlake School,2024-03-22 17:21:17.0,anual,Privado,Gratuito,Cliente,Preescolar,210034529,Plan Gratuito,Altas
+1,202403,Thomas Jefferson Campus Esmeralda,2024-03-21 22:07:00.0,mensual,Privado,Pago,Cliente,Colegio,200000917,Pago por Lead,Altas
+1,202407,Carba,2024-07-17 22:00:00.0,mensual,Privado,Pago,Trial,Colegio,200001846,Pago por Lead,Altas
+-1,202408,Centro De Estudios De Posgrado En Ortodoncia Valle De Anahuac,2024-08-12 22:50:00.0,mensual,Privado,Pago,Cliente,Instituto,200032838,Pago por Lead,Bajas
+1,202406,Centro De Estudios De Posgrado En Ortodoncia Valle De Anahuac,2024-06-12 04:38:00.0,mensual,Privado,Pago,Cliente,Instituto,200032838,Pago por Lead,Altas
+1,202408,Descubridores,2024-08-23 21:44:00.0,mensual,Privado,Pago,Trial,Colegio,200039694,Pago por Lead,Altas
+-1,202407,Oliverio Cromwell Plantel Xochimilco,2024-07-05 22:09:00.0,mensual,Privado,Pago,Cliente,Colegio,200043793,Pago por Lead,Bajas
+1,202406,Oliverio Cromwell Plantel Xochimilco,2024-06-13 16:23:00.0,mensual,Privado,Pago,Cliente,Colegio,200043793,Pago por Lead,Altas
+1,202403,Instituto Thomas Jefferson Guadalajara - Palomar,2024-03-21 22:19:00.0,mensual,Privado,Pago,Cliente,Colegio,200045261,Pago por Lead,Altas
+1,202403,Tomas Alva Edison,2024-03-21 22:11:00.0,mensual,Privado,Pago,Cliente,Colegio,200049495,Pago por Lead,Altas
+1,202403,Instituto Thomas Jefferson Campus Querétaro,2024-03-21 22:15:00.0,mensual,Privado,Pago,Cliente,Colegio,200061491,Pago por Lead,Altas
+1,202403,Thomas Jefferson Valle Real,2024-03-21 22:21:00.0,mensual,Privado,Pago,Cliente,Colegio,200061492,Pago por Lead,Altas
+1,202403,Instituto Thomas Jefferson Campus Santa Mónica,2024-03-21 18:03:00.0,mensual,Privado,Pago,Cliente,Colegio,200227706,Pago por Lead,Altas
+1,202408,Innova Schools Campus Atizapán,2024-08-16 20:11:00.0,anual,Privado,Pago,Cliente,Colegio,200000920,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Coacalco,2024-08-21 19:33:00.0,anual,Privado,Pago,Cliente,Colegio,200001186,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Querétaro La Joya,2024-08-21 20:32:00.0,anual,Privado,Pago,Cliente,Colegio,200001308,Plan Avanzado,Altas
+-1,202408,"Innova Schools Campus Ecatepec ",2024-08-17 19:13:00.0,anual,Privado,Pago,Cliente,Colegio,200002664,Plan Avanzado,Bajas
+2,202408,"Innova Schools Campus Ecatepec ",2024-08-21 19:36:00.0,anual,Privado,Pago,Cliente,Colegio,200002664,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Tizayuca,2024-08-21 19:47:00.0,anual,Privado,Pago,Trial,Colegio,200003065,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Ojo de Agua,2024-08-16 20:14:00.0,anual,Privado,Pago,Cliente,Colegio,200006948,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Tultepec,2024-08-21 19:41:00.0,anual,Privado,Pago,Cliente,Colegio,200009386,Plan Avanzado,Altas
+-2,202408,Innova Schools Campus Querétaro El Marqués,2024-08-17 19:15:00.0,anual,Privado,Pago,Cliente,Colegio,200009424,Plan Avanzado,Bajas
+3,202408,Innova Schools Campus Querétaro El Marqués,2024-08-21 20:34:00.0,anual,Privado,Pago,Cliente,Colegio,200009424,Plan Avanzado,Altas
+-1,202408,Innova Schools Campus Cuautitlan Izcalli,2024-08-21 20:24:00.0,anual,Privado,Pago,Trial,Colegio,200010324,Plan Avanzado,Bajas
+2,202408,Innova Schools Campus Cuautitlan Izcalli,2024-08-29 20:39:00.0,anual,Privado,Pago,Trial,Colegio,200010324,Plan Avanzado,Altas
+1,202312,Internacional SEK Guadalajara,2023-12-14 10:05:00.0,anual,Privado,Pago,Cliente,Colegio,200041382,Plan Avanzado,Altas
+1,202312,Prepa Samteq,2023-12-05 13:56:00.0,anual,Privado,Pago,Trial,Instituto,200049173,Plan Avanzado,Altas
+1,202407,Green Hills School Rancho San Juan,2024-07-02 18:41:00.0,anual,Privado,Pago,Cliente,Colegio,200051846,Plan Avanzado,Altas
+1,202402,Instituto Moderno Americano,2024-02-09 15:28:00.0,anual,Privado,Pago,Cliente,Colegio,200059442,Plan Avanzado,Altas
+1,202402,Preparatoria CELA,2024-02-14 16:35:00.0,anual,Privado,Pago,Cliente,Instituto,200069729,Plan Avanzado,Altas
+1,202406,"Cumbres International School Lomas ",2024-06-04 16:55:00.0,anual,Privado,Pago,Cliente,Colegio,200072855,Plan Avanzado,Altas
+1,202408,Innova Schools Campus Zumpango,2024-08-16 20:11:00.0,anual,Privado,Pago,Cliente,Colegio,210034536,Plan Avanzado,Altas
+1,202311,Estefania,2023-11-18 18:38:00.0,anual,Privado,Pago,Cliente,Colegio,200000867,Plan Estándar,Altas
+1,202312,Peterson Lomas,2023-12-05 06:00:00.0,anual,Privado,Pago,Cliente,Preescolar,200001987,Plan Estándar,Altas
+1,202406,Kindergym Metepec,2024-06-25 21:12:00.0,anual,Privado,Pago,Cliente,Preescolar,200004541,Plan Estándar,Altas
+1,202406,Kindergym Lomas Verdes,2024-06-26 01:46:00.0,anual,Privado,Pago,Cliente,Preescolar,200004857,Plan Estándar,Altas
+1,202405,Wellington,2024-05-30 20:49:00.0,anual,Privado,Pago,Cliente,Colegio,200010287,Plan Estándar,Altas
+-1,202311,Peterson School Pedregal,2023-11-22 23:19:00.0,anual,Privado,Pago,Trial,Colegio,200029649,Plan Estándar,Bajas
+2,202311,Peterson School Pedregal,2023-11-22 23:22:00.0,anual,Privado,Pago,Trial,Colegio,200029649,Plan Estándar,Altas
+-2,202403,"Marisol Kipling A.C. ",2024-03-13 00:38:00.0,anual,Privado,Pago,Cliente,Preescolar,200035699,Plan Estándar,Bajas
+3,202403,"Marisol Kipling A.C. ",2024-03-13 00:30:00.0,anual,Privado,Pago,Cliente,Preescolar,200035699,Plan Estándar,Altas
+1,202404,Amsterdam,2024-04-10 18:08:00.0,anual,Privado,Pago,Cliente,Colegio,200037581,Plan Estándar,Altas
+1,202401,Ángeles,2024-01-23 18:56:00.0,anual,Privado,Pago,Cliente,Colegio,200037654,Plan Estándar,Altas
+1,202408,Brookfield Americano,2024-08-12 20:25:00.0,anual,Privado,Pago,Cliente,Colegio,200038467,Plan Estándar,Altas
+-1,202403,Celta Internacional,2024-03-13 16:44:00.0,anual,Privado,Pago,Cliente,Colegio,200038712,Plan Estándar,Bajas
+1,202403,Celta Internacional,2024-03-13 16:43:00.0,anual,Privado,Pago,Cliente,Colegio,200038712,Plan Estándar,Altas
+1,202404,Celta Internacional,2024-04-24 19:30:00.0,anual,Privado,Pago,Cliente,Colegio,200038712,Plan Estándar,Altas
+1,202404,"Franco Inglés ",2024-04-17 17:26:00.0,anual,Privado,Pago,Cliente,Colegio,200040363,Plan Estándar,Altas
+1,202406,"México Nuevo Campus Querétaro, Centro Sur ",2024-06-04 00:45:00.0,anual,Privado,Pago,Cliente,Colegio,200042977,Plan Estándar,Altas
+1,202405,Reims,2024-05-06 19:55:00.0,anual,Privado,Pago,Cliente,Colegio,200044443,Plan Estándar,Altas
+1,202307,Sagrado Corazón México,2023-07-20 16:27:00.0,anual,Privado,Pago,Cliente,Colegio,200044595,Plan Estándar,Altas
+1,202305,Washington,2023-05-19 20:53:00.0,anual,Privado,Pago,Cliente,Colegio,200045740,Plan Estándar,Altas
+1,202405,Winpenny School,2024-05-29 17:17:00.0,anual,Privado,Pago,Cliente,Colegio,200045747,Plan Estándar,Altas
+-1,202305,Wexford Campus Maravillas,2023-05-24 17:53:00.0,anual,Privado,Pago,Trial,Colegio,200045752,Plan Estándar,Bajas
+2,202305,Wexford Campus Maravillas,2023-05-24 19:06:00.0,anual,Privado,Pago,Trial,Colegio,200045752,Plan Estándar,Altas
+-1,202404," Von Glümer Cuajimalpa",2024-04-10 17:19:00.0,anual,Privado,Pago,Cliente,Colegio,200048891,Plan Estándar,Bajas
+2,202404," Von Glümer Cuajimalpa",2024-04-10 17:31:00.0,anual,Privado,Pago,Cliente,Colegio,200048891,Plan Estándar,Altas
+1,202407,Green Hills San Jerónimo,2024-07-04 21:01:00.0,anual,Privado,Pago,Cliente,Colegio,200051843,Plan Estándar,Altas
+1,202407,Green Hills School Rancho San Juan,2024-07-02 18:41:00.0,anual,Privado,Pago,Cliente,Colegio,200051846,Plan Estándar,Altas
+1,202307,Guadalajara Sagrado Corazón,2023-07-27 20:09:00.0,anual,Privado,Pago,Cliente,Colegio,200051960,Plan Estándar,Altas
+1,202407,"Gymboree Juego & Música Condesa ",2024-07-05 05:03:00.0,anual,Privado,Pago,Cliente,Preescolar,200052361,Plan Estándar,Altas
+1,202407,Instituto Campestre De Ciencias Y Artes De Metepec,2024-07-05 21:29:00.0,anual,Privado,Pago,Trial,Colegio,200054225,Plan Estándar,Altas
+-2,202305,"Olinca ",2023-05-03 21:51:00.0,anual,Privado,Pago,Trial,Colegio,200057120,Plan Estándar,Bajas
+3,202305,"Olinca ",2023-05-03 21:51:00.0,anual,Privado,Pago,Trial,Colegio,200057120,Plan Estándar,Altas
+1,202403,Montesquieu,2024-03-06 15:43:00.0,anual,Privado,Pago,Cliente,Colegio,200058862,Plan Estándar,Altas
+1,202309,Mater International of the Sacred Heart,2023-09-20 17:48:00.0,anual,Privado,Pago,Cliente,Colegio,200059065,Plan Estándar,Altas
+1,202403,Instituto Mexicano de Estudios Superiores (IMES),2024-03-06 20:32:00.0,anual,Privado,Pago,Trial,Colegio,200059185,Plan Estándar,Altas
+1,202407,Panamericano,2024-07-27 06:40:00.0,anual,Privado,Pago,Cliente,Colegio,200059843,Plan Estándar,Altas
+1,202407,Instituto Pedagógico Infantil Bilingüe IPI,2024-07-16 21:24:00.0,anual,Privado,Pago,Cliente,Colegio,200059963,Plan Estándar,Altas
+1,202402,Instituto Sanford Torreón,2024-02-19 20:02:00.0,anual,Privado,Pago,Cliente,Colegio,200060717,Plan Estándar,Altas
+1,202402,Instituto Sanford Aguascalientes,2024-02-29 21:09:00.0,anual,Privado,Pago,Cliente,Colegio,200060722,Plan Estándar,Altas
+-2,202406,Técnico y Cultural,2024-06-22 01:31:00.0,anual,Privado,Pago,Cliente,Colegio,200061214,Plan Estándar,Bajas
+3,202406,Técnico y Cultural,2024-06-21 21:39:00.0,anual,Privado,Pago,Cliente,Colegio,200061214,Plan Estándar,Altas
+1,202405,Isabel La Católica,2024-05-28 20:06:00.0,anual,Privado,Pago,Cliente,Colegio,200062252,Plan Estándar,Altas
+1,202407,"Keyschools ",2024-07-03 21:20:00.0,anual,Privado,Pago,Cliente,Colegio,200064827,Plan Estándar,Altas
+1,202407,Kindergym Aeropuerto,2024-07-04 00:34:00.0,anual,Privado,Pago,Cliente,Preescolar,200064828,Plan Estándar,Altas
+-1,202407,"Kindergym ",2024-07-02 00:27:00.0,anual,Privado,Pago,Cliente,Colegio,200064831,Plan Estándar,Bajas
+2,202407,"Kindergym ",2024-07-03 22:08:00.0,anual,Privado,Pago,Cliente,Colegio,200064831,Plan Estándar,Altas
+1,202407,Kindergym Coapa,2024-07-03 21:30:00.0,anual,Privado,Pago,Cliente,Preescolar,200064832,Plan Estándar,Altas
+-15,202407,Kindergym Naciones Unidas,2024-07-11 00:28:00.0,anual,Privado,Pago,Cliente,Preescolar,200064833,Plan Estándar,Bajas
+16,202407,Kindergym Naciones Unidas,2024-07-11 00:34:00.0,anual,Privado,Pago,Cliente,Preescolar,200064833,Plan Estándar,Altas
+1,202406,"Kindergym Taxqueña ",2024-06-26 01:46:00.0,anual,Privado,Pago,Cliente,Preescolar,200064846,Plan Estándar,Altas
+-2,202406,Kindergym Pedregal,2024-06-28 18:01:00.0,anual,Privado,Pago,Cliente,Preescolar,200064847,Plan Estándar,Bajas
+3,202406,Kindergym Pedregal,2024-06-28 19:05:00.0,anual,Privado,Pago,Cliente,Preescolar,200064847,Plan Estándar,Altas
+1,202407,Polanco,2024-07-12 00:34:00.0,anual,Privado,Pago,Cliente,Preescolar,200064849,Plan Estándar,Altas
+1,202407,La Salle de Seglares,2024-07-08 22:28:00.0,anual,Privado,Pago,Trial,Colegio,200065177,Plan Estándar,Altas
+-1,202311,Peterson Cuajimalpa,2023-11-25 00:20:05.0,anual,Privado,Pago,Cliente,Colegio,200069211,Plan Estándar,Bajas
+2,202311,Peterson Cuajimalpa,2023-11-22 17:26:00.0,anual,Privado,Pago,Cliente,Colegio,200069211,Plan Estándar,Altas
+1,202312,Agustín García Conde,2023-12-21 18:44:00.0,anual,Privado,Pago,Cliente,Colegio,200069672,Plan Estándar,Altas
+-2,202402,Lúminos,2024-02-27 20:28:00.0,anual,Privado,Pago,Cliente,Colegio,200071196,Plan Estándar,Bajas
+3,202402,Lúminos,2024-02-27 20:28:00.0,anual,Privado,Pago,Cliente,Colegio,200071196,Plan Estándar,Altas
+1,202405,León Felipe · Montessori,2024-05-28 17:26:00.0,anual,Privado,Pago,Cliente,Colegio,200071425,Plan Estándar,Altas
+-1,202403,San Sebastián,2024-03-04 19:12:00.0,anual,Privado,Pago,Cliente,Colegio,200071532,Plan Estándar,Bajas
+2,202403,San Sebastián,2024-03-06 17:51:00.0,anual,Privado,Pago,Cliente,Colegio,200071532,Plan Estándar,Altas
+1,202403,Universidad San Sebastian,2024-03-07 19:16:00.0,anual,Privado,Pago,Trial,Instituto,200074184,Plan Estándar,Altas
+1,202407,Kindergym Lindavista,2024-07-03 21:06:00.0,anual,Privado,Pago,Cliente,Preescolar,200151678,Plan Estándar,Altas
+1,202311,"Olinca plantel San Ángel ",2023-11-08 19:43:00.0,anual,Privado,Pago,Trial,Colegio,210034520,Plan Estándar,Altas
+1,202311,Peterson School Paseo,2023-11-22 23:03:00.0,anual,Privado,Pago,Trial,Preescolar,210034523,Plan Estándar,Altas
+1,202402,Lúminos,2024-02-20 23:43:00.0,anual,Privado,Pago,Cliente,Colegio,210034525,Plan Estándar,Altas
+1,202403,Westlake School,2024-03-22 17:24:00.0,anual,Privado,Pago,Cliente,Preescolar,210034529,Plan Estándar,Altas
+1,202406,Kindergym Del Valle,2024-06-27 21:39:00.0,anual,Privado,Pago,Cliente,Preescolar,210034532,Plan Estándar,Altas
+1,202406,Kindergym,2024-06-27 05:29:00.0,anual,Privado,Pago,Cliente,Preescolar,210034534,Plan Estándar,Altas
+1,202406,Zinacantepec (Toluca de Lerdo),2024-06-29 02:32:00.0,anual,Privado,Pago,Cliente,Colegio,210034533,Plan Estándar,Altas
+1,202402,Patria Y Libertad,2024-02-26 16:47:40.0,anual,Privado,Gratuito,Trial,Colegio,200068969,Plan Gratuito,Altas
+-1,202405,Reims,2024-05-06 19:55:43.0,anual,Privado,Gratuito,Cliente,Colegio,200044443,Plan Gratuito,Bajas
+1,202310,Centro De Estudios Milenio Acapulco,2023-10-09 16:45:58.0,anual,Privado,Gratuito,Trial,Instituto,200033035,Plan Gratuito,Altas
+1,202406," Bosques Del Alba ",2024-06-05 17:57:31.0,anual,Privado,Gratuito,Trial,Colegio,200010522,Plan Gratuito,Altas
+-1,202406,Kindergym Metepec,2024-06-25 21:12:34.0,anual,Privado,Gratuito,Cliente,Preescolar,200004541,Plan Gratuito,Bajas
+1,202404,Cultural Guadalupano,2024-04-16 16:44:15.0,anual,Privado,Gratuito,Trial,Colegio,200002707,Plan Gratuito,Altas
+-1,202407,Carba,2024-07-17 22:01:02.0,anual,Privado,Gratuito,Trial,Colegio,200001846,Plan Gratuito,Bajas
+1,202311,Cedros Norte,2023-11-16 19:10:51.0,anual,Privado,Gratuito,Trial,Colegio,200000861,Plan Gratuito,Altas
